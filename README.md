@@ -4,6 +4,8 @@ Welcome! I'm a future BI/Financial Analyst with a foundation in accounting and a
 
 ## 🔧 Tools & Skills
 - Power BI
+- Looker
+- Cognos
 - DAX
 - SQL (in progress)
 - Excel (advanced)
