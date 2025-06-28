@@ -45,8 +45,8 @@ Tracks revenue, expenses, and profit by department. Built from structured data w
 
 ## 📈 Tableau Projects
 
-🔹 **Coming Soon!**  
-Tableau dashboards for sales analysis and customer segmentation are currently in development.
+[Sales Operations Overview Dashboard](./Tableau%20Projects/Sales%20Ops%20Dashboard)  
+Interactive Tableau dashboard analyzing pipeline performance, conversion rates, revenue trends, and payment mix to support sales strategy.
 
 ---
 ## 📚 About Me
