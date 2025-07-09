@@ -5,7 +5,7 @@ Welcome! I'm Taylor Young, an aspiring Business Intelligence and Financial Analy
 This portfolio showcases projects developed using Power BI, Looker Studio, IBM Cognos, and Tableau. 
 
 
-## 🔧 Tools & Skills
+## Tools & Skills
 - Power BI
 - Tableau
 - Looker
@@ -44,7 +44,7 @@ Tracks revenue, expenses, and profit by department. Built from structured data w
 
 ---
 
-## 📑 Looker Studio & IBM Cognos Projects
+## Looker Studio & IBM Cognos Projects
 
 Interactive reports built with Looker Studio and IBM Cognos showcasing financial performance and KPI tracking.
 
@@ -55,19 +55,19 @@ Interactive reports built with Looker Studio and IBM Cognos showcasing financial
 
 ---
 
-## 📈 Tableau Projects
+## Tableau Projects
 
 [Sales Operations Overview Dashboard](./Tableau%20Projects/Sales%20Ops%20Dashboard)  
 
 Interactive Tableau dashboard analyzing pipeline performance, conversion rates, revenue trends, and payment mix to support sales strategy.
 
 ---
-## 📚 About Me
+## About Me
 
 I am currently pursuing my B.S. in Accounting and expanding my skills in BI and data analytics. My focus is on combining accounting expertise with data storytelling to drive actionable insights.
 
 ---
-### 📫 Contact
+### Contact
 
 - [LinkedIn](https://www.linkedin.com/in/taylor-young-29ab222b6)
 - [Email](mailto:tayyoung92@outlook.com)
