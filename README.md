@@ -22,11 +22,11 @@ This portfolio showcases projects developed using Power BI, Looker Studio, IBM C
  
  End-to-end SaaS performance dashboard showcasing subscription metrics like MRR, CAC, LTV, churn, and customer growth.
  
- 3. [Neon Dashboard](./PowerBI_Projects/Neon%20Dashboard)
+ 2. [Neon Dashboard](./PowerBI_Projects/Neon%20Dashboard)
  
  Power BI dashboard analyzing marketing spend, ROI, conversions, and audience engagement across multiple channels and regions.
  
- 4. [Customer Lifetime Value & RFM Segmentation](./PowerBI_Projects/CLV%20and%20RFM%20Segmentation%20Dashboard)
+ 3. [Customer Lifetime Value & RFM Segmentation](./PowerBI_Projects/CLV%20and%20RFM%20Segmentation%20Dashboard)
 
 A customer analytics project calculating CLV and segmenting customers using RFM scoring.
 
@@ -58,6 +58,7 @@ Interactive reports built with Looker Studio and IBM Cognos showcasing financial
 ## 📈 Tableau Projects
 
 [Sales Operations Overview Dashboard](./Tableau%20Projects/Sales%20Ops%20Dashboard)  
+
 Interactive Tableau dashboard analyzing pipeline performance, conversion rates, revenue trends, and payment mix to support sales strategy.
 
 ---
