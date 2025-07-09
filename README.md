@@ -20,25 +20,33 @@ This portfolio showcases projects developed using Power BI, Looker Studio, IBM C
 
  1. [Financial Modeling SaaS Dashboard](./PowerBI_Projects/Financial%20Modeling%20Dashboard)
  
- 2. [Neon Dashboard](./PowerBI_Projects/Neon%20Dashboard)
+ End-to-end SaaS performance dashboard showcasing subscription metrics like MRR, CAC, LTV, churn, and customer growth.
  
- 3. [Customer Lifetime Value & RFM Segmentation](./PowerBI_Projects/CLV%20and%20RFM%20Segmentation%20Dashboard)
+ 3. [Neon Dashboard](./PowerBI_Projects/Neon%20Dashboard)
+ 
+ Power BI dashboard analyzing marketing spend, ROI, conversions, and audience engagement across multiple channels and regions.
+ 
+ 4. [Customer Lifetime Value & RFM Segmentation](./PowerBI_Projects/CLV%20and%20RFM%20Segmentation%20Dashboard)
+
 A customer analytics project calculating CLV and segmenting customers using RFM scoring.
 
  4. [AI Financial Dashboard](./PowerBI_Projects/AI%20Financial%20Dashboard)
+
 An automated revenue and profit analysis dashboard with forecasting and AI Q&A capabilities.
 
  5. [Customer Sales & Profitability Dashboard](./PowerBI_Projects/Customer%20Sales%20and%20Profitability%20Dashboard)
+
 Analyzes sales performance by customer, product, and region. Includes KPIs, profit margin trends, and dynamic filtering.
 
  6. [Financial Performance Dashboard](./PowerBI_Projects/First%20Dashboard)
+
 Tracks revenue, expenses, and profit by department. Built from structured data with calculated KPIs and slicers.
 
 ---
 
 ## 📑 Looker Studio & IBM Cognos Projects
 
-🔹 Interactive reports built with Looker Studio and IBM Cognos showcasing financial performance and KPI tracking.
+Interactive reports built with Looker Studio and IBM Cognos showcasing financial performance and KPI tracking.
 
 [Looker Studio Report](./Looker%20Studio%20Projects/Looker%20Project)
 
