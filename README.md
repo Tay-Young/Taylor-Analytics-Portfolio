@@ -18,16 +18,20 @@ This portfolio showcases projects developed using Power BI, Looker Studio, IBM C
 
 ## Power BI Projects
 
-### 1. [Customer Lifetime Value & RFM Segmentation](./PowerBI_Projects/CLV%20and%20RFM%20Segmentation%20Dashboard)
+ 1. [Financial Modeling SaaS Dashboard](./PowerBI_Projects/Financial%20Modeling%20Dashboard)
+ 
+ 2. [Neon Dashboard](./PowerBI_Projects/Neon%20Dashboard)
+ 
+ 3. [Customer Lifetime Value & RFM Segmentation](./PowerBI_Projects/CLV%20and%20RFM%20Segmentation%20Dashboard)
 A customer analytics project calculating CLV and segmenting customers using RFM scoring.
 
-### 2. [AI Financial Dashboard](./PowerBI_Projects/AI%20Financial%20Dashboard)
+ 4. [AI Financial Dashboard](./PowerBI_Projects/AI%20Financial%20Dashboard)
 An automated revenue and profit analysis dashboard with forecasting and AI Q&A capabilities.
 
-### 3. [Customer Sales & Profitability Dashboard](./PowerBI_Projects/Customer%20Sales%20and%20Profitability%20Dashboard)
+ 5. [Customer Sales & Profitability Dashboard](./PowerBI_Projects/Customer%20Sales%20and%20Profitability%20Dashboard)
 Analyzes sales performance by customer, product, and region. Includes KPIs, profit margin trends, and dynamic filtering.
 
-### 4. [Financial Performance Dashboard](./PowerBI_Projects/First%20Dashboard)
+ 6. [Financial Performance Dashboard](./PowerBI_Projects/First%20Dashboard)
 Tracks revenue, expenses, and profit by department. Built from structured data with calculated KPIs and slicers.
 
 ---
