@@ -2,7 +2,7 @@
 
 Welcome! I'm Taylor Young, an aspiring Business Intelligence and Financial Analyst with a background in accounting and hands-on experience building interactive dashboards and reports. This space showcases my data projects as I grow my skills in BI tools, SQL, R, and Python. I also have experience with prompt engineering using Generative AI such as ChatGPT.
 
-This portfolio showcases projects developed using Power BI, Looker Studio, IBM Cognos, and Tableau. SQL, R
+This portfolio showcases projects developed using Power BI, Looker Studio, IBM Cognos, and Tableau. 
 
 
 ## 🔧 Tools & Skills
@@ -11,12 +11,12 @@ This portfolio showcases projects developed using Power BI, Looker Studio, IBM C
 - Looker
 - IBM Cognos
 - DAX
-- SQL (in progress)
+- SQL (basic)
 - Excel (advanced)
-- Financial & credit analysis
+- Financial Analysis
 - Python and R (up next)
 
-## 📊 Projects
+## Power BI Projects
 
 ### 1. [Customer Lifetime Value & RFM Segmentation](./PowerBI_Projects/CLV%20and%20RFM%20Segmentation%20Dashboard)
 A customer analytics project calculating CLV and segmenting customers using RFM scoring.
