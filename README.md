@@ -13,20 +13,28 @@ My goal is simple: turn financial and operational data into clear information th
 
 Automated financial dashboard focused on revenue and profitability analysis, including forecasting and AI-assisted Q&A capabilities.
 
+![AI Financial Dashboard](./PowerBI_Projects/AI%20Financial%20Dashboard/PowerBI%20Project%203/Screenshot%202025-06-27%20132132.png)
+
 ### [Financial Modeling SaaS Dashboard](./PowerBI_Projects/Financial%20Modeling%20Dashboard)
 **SaaS Metrics | Performance Analysis | Power BI**
 
 End-to-end SaaS performance dashboard tracking subscription metrics including MRR, CAC, LTV, churn, and customer growth to support performance monitoring and decision-making.
+
+![Financial Modeling SaaS Dashboard](./PowerBI_Projects/Financial%20Modeling%20Dashboard/Screenshot%202025-07-08%20183654.png)
 
 ### [Customer Sales & Profitability Dashboard](./PowerBI_Projects/Customer%20Sales%20and%20Profitability%20Dashboard)
 **Profitability | Sales Analysis | Power BI**
 
 Analyzes sales performance across customers, products, and regions, with KPIs, profit-margin trends, and dynamic filtering to identify performance drivers and areas for further investigation.
 
+![Customer Sales and Profitability Dashboard](./PowerBI_Projects/Customer%20Sales%20and%20Profitability%20Dashboard/PowerBI%20Project%202/Screenshot%202025-06-23%20234036.png)
+
 ### [Financial Performance Dashboard](./PowerBI_Projects/First%20Dashboard)
 **Financial Reporting | KPI Analysis | Power BI**
 
 Tracks revenue, expenses, and profit by department using calculated KPIs and interactive slicers to provide a clear view of financial performance.
+
+![Financial Performance Dashboard](./PowerBI_Projects/First%20Dashboard/PowerBI%20Project%201/Screenshot%202025-06-23%20015715.png)
 
 ## Additional Analytics Projects
 
